@@ -1,0 +1,27 @@
+{
+  "name": "pb-the-cashier-problem-cemkgrbz",
+  "version": "1.0.0",
+  "description": "Create a program that helps a cashier give adequate change to customers. The program should return the amount of notes and coins for the customer's change.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-22-E04/pb-the-cashier-problem-cemkgrbz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-22-E04/pb-the-cashier-problem-cemkgrbz/issues"
+  },
+  "homepage": "https://github.com/FbW-22-E04/pb-the-cashier-problem-cemkgrbz#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.2"
+  }
+}
